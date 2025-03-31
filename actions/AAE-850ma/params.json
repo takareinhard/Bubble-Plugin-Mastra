@@ -1,0 +1,13 @@
+{
+    "category": "plugins",
+    "display": "Send message to Mastra agent",
+    "fields": {
+        "AAH": {
+            "caption": "input",
+            "editor": "StaticText",
+            "name": "Message Text",
+            "rank": 0
+        }
+    },
+    "type": "client_side_web"
+}

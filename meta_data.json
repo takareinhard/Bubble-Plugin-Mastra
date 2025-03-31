@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "data_tracked": false,
+    "description": "mastraの接続用テストプラグイン",
+    "image": "//meta-q.cdn.bubble.io/f1743404573685x721817922584701400/takareinhard-logo.jpeg",
+    "license": "open_source",
+    "name": "Mastra"
+}

@@ -1,0 +1,21 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "mastra_agent",
+    "fields": {
+        "AAG": {
+            "caption": "Input Message\t",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "input",
+            "rank": 0
+        }
+    },
+    "has_reset_fn": false,
+    "icon": "ion-android-checkbox-blank",
+    "platform_type": "web"
+}
